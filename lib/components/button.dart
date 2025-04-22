@@ -15,7 +15,7 @@ class MyButton extends StatelessWidget{
 
 
         ),
-        child:Center(child: Text('Tap'),),
+        child:Center(child: Text('Change Mode'),),
 
       ),
     );

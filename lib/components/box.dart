@@ -10,8 +10,8 @@ class MyBox extends StatelessWidget{
         color: color,
         borderRadius: BorderRadius.circular(12),
       ),
-      width: 200,
-      height: 200,
+      width: 400,
+      height: 400,
       padding: EdgeInsets.all(50),
       child: child,
 
